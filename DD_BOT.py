@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import config
 import sqlite3
+import asyncio
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup as InMa, InlineKeyboardButton as InBu
 import random
