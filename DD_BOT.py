@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import config
 import sqlite3
 from aiogram import Bot, Dispatcher, executor, types
